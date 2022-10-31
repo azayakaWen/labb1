@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Det funkar! Happy halloween!
+          Learn React Det funkar! Happy halloween! Ny version!
         </a>
       </header>
     </div>
